@@ -6,3 +6,4 @@ Data collection - https://finance.yahoo.com/quote/MSFT/history
 
 
 Here is how you can create this dashboard 
+![Alt Text](relative/path/to/image.png)
