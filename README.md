@@ -6,4 +6,4 @@ Data collection - https://finance.yahoo.com/quote/MSFT/history
 
 
 Here is how you can create this dashboard 
-![Alt Text](relative/path/to/image.png)
+![Alt Text](https://github.com/Uppalapa/PowerBI/blob/main/PowerBi%20dashboard%20jpg.PNG)
