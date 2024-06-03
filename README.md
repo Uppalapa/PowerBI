@@ -1,7 +1,7 @@
-# PowerBI - EastWest Bank (EWBC) Stock Analysis
+# PowerBI - Stock Analysis
 With extensive experience in designing visually appealing and insightful reports, I excel at transforming complex data into clear and actionable insights.
 
-Here's an illustration of the trend in US stock prices and a year-over-year comparison of top companies like EastWest Bank(EWBC), Microsoft (MSFT), Apple (AAPL), Amazon(AMZN)
+Here's an illustration of the trend in US stock prices and a year-over-year comparison of top companies like  Microsoft (MSFT), Apple (AAPL), Amazon(AMZN)
 Data collection - https://finance.yahoo.com/quote/MSFT/history
 
 
@@ -39,5 +39,4 @@ Data collection - https://finance.yahoo.com/quote/MSFT/history
 * Preview your report to ensure that your visualizations look and behave as expected.
 * Once you're satisfied, save your report and publish it to the Power BI Service to share it with others or embed it into other applications.
 
-## Next Steps - Bank Performance Evaluation: EastWest Bank in Comparison to Industry Leaders
-As a next step, we will conduct a comparative analysis to assess the performance of EastWest Bank relative to other leading banks in the industry. This analysis will involve examining key financial metrics, such as revenue growth, profitability ratios, asset quality, and market share, to gauge EastWest Bank's competitiveness and market position. By benchmarking EastWest Bank against its peers, we can gain valuable insights into its strengths, weaknesses, and areas for improvement. Additionally, this comparative analysis will provide stakeholders with a comprehensive understanding of EastWest Bank's relative performance within the banking sector, enabling informed decision-making and strategic planning.
+
